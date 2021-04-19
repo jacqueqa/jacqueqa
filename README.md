@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jacqueqa
+- 👋 Hi, I’m Jackie ^^ 
 - 👀 I’m interested in Test, QA, Automation Scripts and learning software development
 - 🌱 I’m currently learning C#, JavaScript
 - 💞️ I’m looking to collaborate on (for now nothing I can think =P ) 
