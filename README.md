@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Jackie ^^ 
-- 👀 I’m interested in Test, QA, Automation Scripts and learning software development
-- 🌱 I’m currently learning Java, JavaScript
-- 💞️ I’m looking to collaborate on automation projects and help new people on technology area.
-- 📫 You can find me @  https://www.linkedin.com/in/jacquetp/
+### Hello guys 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacquetp/)](https://www.linkedin.com/in/jacquetp/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdeliciouss)](https://twitter.com/nerdeliciouss)
+
+- 🔭 I’m currently working [@Infraspeak](https://github.com/Infraspeak)
+- 🦄 Dev Friendly QA Analyst/Engineer
+- 🌱 I’m currently learning JavaScript & Cypress.
+- 👯 I’m looking to collaborate on open-source
+- 📚 I like to write! And you can read my posts on [LinkedIn](https://www.linkedin.com/in/jacquetp/detail/recent-activity/posts/)
+- 💬 Ask me about software quality, test automation and metacognition. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
+- 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
+- ⚡ Fun facts: My first graduation was on Physiotherapy, after that I was a crossfit coach. Karate professional athlete for 10 years.
+- 😄 Games: Overwatch, League of Legends, Valorant and CS.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacqueqa&show_icons=true&theme=dracula)](https://github.com/jacqueqa)
+<br/>
+
 
 <!---
 jacqueqa/jacqueqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
