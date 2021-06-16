@@ -9,7 +9,7 @@
 - 💬 Ask me about software quality, test automation and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
-- ⚡ Fun facts: My first graduation was on Physiotherapy, after that I was a crossfit coach. Karate professional athlete for 10 years.
+- ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a crossfit coach once | Was a karate professional athlete for 10 years.
 - 😄 Games: Overwatch, League of Legends, Valorant and CS.
 
 
