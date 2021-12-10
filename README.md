@@ -9,8 +9,8 @@
 
 About me: 
 - 🔭 I’m currently working [@Infraspeak](https://github.com/Infraspeak)
-- 🐻 Dev Friendly QA Analyst/Engineer.
-- 🌱 Learning JavaScript, Cypress & Appium.
+- 🐻 Dev Friendly QA Engineer.
+- 🌱 Learning and working with JavaScript, Cypress & API testing.
 - 👯 I’m looking to collaborate on open-source.
 - 📚 I like to write! And you can read my posts on [LinkedIn](https://www.linkedin.com/in/jacquetp/detail/recent-activity/posts/)
 - 💬 Ask me about software quality, test automation and metacognition. 
