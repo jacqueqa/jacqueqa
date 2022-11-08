@@ -2,8 +2,8 @@
 
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=for-the-badge&color=purple"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=for-the-badge&color=pink"/>](#)
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=for-the-badge&color=black"/>](#)
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Music-blue?style=for-the-badge&color=white"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=for-the-badge&color=yellow"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Music-blue?style=for-the-badge&color=blueviolet"/>](#)
 
 <br>
 
@@ -27,5 +27,5 @@ You can find me here too:
 [<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/21so7y6u2y2tzy4jn7cjdmm6y)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacqueqa&show_icons=true&theme=dracula)](https://github.com/jacqueqa)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacqueqa&show_icons=true&theme=synthwave)](https://github.com/jacqueqa)
 <br/>
