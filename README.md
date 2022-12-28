@@ -8,9 +8,8 @@
 <br>
 
 About me: 
-- 🔭 I’m currently working [@Infraspeak](https://github.com/Infraspeak)
-- 🐻 Dev Friendly QA Engineer.
-- 🌱 Learning and working with JavaScript, Cypress & API testing.
+- 👾 SDET and going into the Dev side of the force at [@Gyant](https://gyant.com/)
+- 🌱 Working with Node.Js, TypeScript, Robot and API testing (SuperTest and Postman).
 - 👯 I’m looking to collaborate on open-source.
 - 📚 I like to write! And you can read my posts on [LinkedIn](https://www.linkedin.com/in/jacquetp/detail/recent-activity/posts/)
 - 💬 Ask me about software quality, test automation and metacognition. 
