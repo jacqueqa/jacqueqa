@@ -7,24 +7,37 @@
 
 <br>
 
-About me: 
-- 👾 SDET and going into the Dev side of the force at [@Gyant](https://gyant.com/)
-- 🌱 Working with Node.Js, TypeScript, Robot and API testing (SuperTest and Postman).
-- 👯 I’m looking to collaborate on open-source.
-- 📚 I like to write! And you can read my posts on [LinkedIn](https://www.linkedin.com/in/jacquetp/detail/recent-activity/posts/)
-- 💬 Ask me about software quality, test automation and metacognition. 
+- 👾 Software Engineer focused in Automation [@Gyant](https://gyant.com/)
+- 📚 Backend Dev wannabe
+- 💬 Ask me about software quality, test automation, and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
-- ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a crossfit coach once | Was a karate professional athlete for 10 years.
-- 😄 Games: Overwatch, League of Legends, Valorant and CS.
+- ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a CrossFit coach once | Was a karate professional athlete for 10 years.
+- 🎮 PC :: Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.
 
-<br><br>
 You can find me here too:
 <br>
-[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jacqueqa/)
+[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jacque.dev/)
 [<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/520706953773580292)
-[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/21so7y6u2y2tzy4jn7cjdmm6y)
+<br>
+
+**💼 Currently working with:**
+
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://robotframework.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg"></a></code>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacqueqa&show_icons=true&theme=synthwave)](https://github.com/jacqueqa)
-<br/>
+
+
+**📚 Want to Learn::**
+
+<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a href="https://nestjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
+
+
+
+<div align="center">
+
