@@ -15,11 +15,6 @@
 - ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a CrossFit coach once | Was a karate professional athlete for 10 years.
 - 🎮 PC :: Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.
 
-You can find me here too:
-<br>
-[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jacque.dev/)
-[<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/520706953773580292)
-<br>
 
 **💼 Currently working with:**
 
