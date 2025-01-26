@@ -18,7 +18,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
 - ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a CrossFit coach once | Was a karate professional athlete for 10 years.
-- 🎮 PC :: Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.
+- 🎮 PC :: Marvelrivals, Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.
 
 <br>
 <br>
