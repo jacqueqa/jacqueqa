@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 👾 Software Engineer focused in Automation
-- 🤖 QA Engineer [@Mercedes-Benz.io](https://www.mercedes-benz.io/jobs) 
+- 🤖 Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
 - 📚 Backend Dev wannabe
 - 💬 Ask me about software quality, test automation, and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
