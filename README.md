@@ -12,8 +12,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 👾 Software Engineer focused in Automation
-- 🤖 Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
-- 📚 Backend Dev wannabe
+- 🤖 Working as an Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
+- 📚 Backend Dev under construction ⚠
 - 💬 Ask me about software quality, test automation, and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
@@ -35,6 +35,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubertnetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **🛠️Tools**
