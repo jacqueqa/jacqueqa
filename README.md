@@ -13,7 +13,8 @@
 
 - 👾 Software Engineer focused in Automation
 - 🤖 Working as an Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
-- 📚 Backend Dev under construction ⚠
+- 📚 Studying and Playing with code to be a Backend Dev
+- 📝 Sometimes writer [Medium](https://medium.com/@jacqueqa)
 - 💬 Ask me about software quality, test automation, and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
