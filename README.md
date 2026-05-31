@@ -1,9 +1,8 @@
 
 
-### Hello guys 👋 Jackie here! 🦄 
+<img width="768" height="1360" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" align="right" />
 
-<img width="768" height="1360" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" />
-
+<br><br>
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=flat&color=grey"/>](#)
