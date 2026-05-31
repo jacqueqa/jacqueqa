@@ -2,6 +2,8 @@
 
 ### Hello guys 👋 Jackie here! 🦄 
 
+<img width="768" height="1360" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" />
+
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=flat&color=grey"/>](#)
@@ -46,8 +48,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-
-<img width="768" height="1360" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" />
 
 <div align="center">
 
