@@ -1,6 +1,6 @@
 
 
-<img width="540" height="960" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" align="right" />
+<img width="540" height="960" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" align="left" />
 
 <br>
 
@@ -9,19 +9,22 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Music-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-BackEnd-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tarot-blue?style=flat&color=grey"/>](#)
 
 <br>
 
 
-- 👾 Software Engineer focused in Automation
-- 🤖 Working as an Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
+- 👾 Software Engineer focused on Automation
+- 🤖 Working as an Senior Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
 - 📚 Studying and Playing with code to be a Backend Dev
 - 📝 Sometimes writer [Medium](https://medium.com/@jacqueqa)
 - 💬 Ask me about software quality, test automation, and metacognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacquetp/) 
 - 🎈 [The Teacher (ENFJ)](https://www.truity.com/personality-type/ENFJ)
-- ⚡ Fun facts: My 1º graduation was: Physiotherapy | I was a CrossFit coach once | Was a karate professional athlete for 10 years.
-- 🎮 PC :: Marvelrivals, Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.
+- ⚡ Fun facts: 
+- 🃏 Tarot and LeNormand reader
+- 🧹 Afroindigenous witch
+- 🎮 gamer :: PC-  Marvelrivals, Overwatch and League of Legends | Switch - Just Dance and Ring Fit.
 
 <br>
 <br>
