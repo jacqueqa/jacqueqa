@@ -3,6 +3,7 @@
 <img width="768" height="1360" alt="about" src="https://github.com/user-attachments/assets/d73b63d6-25d1-4610-aa4f-9de67b5e649c" align="center" />
 
 <br>
+
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=flat&color=grey"/>](#)
@@ -10,7 +11,7 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-BackEnd-blue?style=flat&color=grey"/>](#)
 
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 
 - 👾 Software Engineer focused in Automation
 - 🤖 Working as an Integrations QA Engineer [@SmartMed](https://www.smartmed.world) 
